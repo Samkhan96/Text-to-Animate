@@ -1,1 +1,3 @@
 # Text-to-Animate
+
+okay i have a project, i am creating a MVP for my startup, so my MVP is about solving the complex tasks of 3d animation, like text to animate, where users uploads rigged 3d chrachter, and give the prompt for there desired animations, and i am also thinking to train the AI MODAL, on complex animations, but for now i need a MVP which can do basic tasks like text to animation, animation are already downloaded from mixamo stored locally and we just need to map them on the uploaded chrachter based on the prompt, but now i am having the issues with frontend or backend maybe i dont exactly know, i was using gemini 1.5, but it wasnt able to solve the issue, while the whole code in my project is AI written, so thats it.
